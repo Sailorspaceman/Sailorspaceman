@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sailorspaceman
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python, C++, Javascript and more
+- 🌱 I’m currently learning python, C++, Java and more
 - 💞️ I’m looking to collaborate on Learning new skills
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
